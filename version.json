@@ -1,6 +1,10 @@
 {
-  "version": "1.0.0.0",
-  "changelog": "\n- 新增药品批量导入功能\n- 添加数据导出为Excel格式\n- 界面UI优化\n- 提升数据加载速度",
+  "version": "1.0.0.1",
+  "changelog": "<strong>新增功能</strong>\n- 添加自动更新检查\n- 优化用户界面",
   "downloadUrl": "https://github.com/limr95/diopq/releases/latest",
-  "releaseDate": "2026-04-07"
+  "stats": {
+    "checkCount": 0,
+    "lastCheckDate": "2026-04-07",
+    "activeUsers": 0
+  }
 }
