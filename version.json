@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1.1",
+  "version": "1.0.2",
   "changelog": "<strong>新增功能</strong>\n- 添加自动更新检查\n- 优化用户界面",
   "downloadUrl": "https://github.com/limr95/diopq/releases/latest",
   "stats": {
